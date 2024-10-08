@@ -1,0 +1,15 @@
+E:\图书管理系统\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\图书管理系统\Library\Library\obj\Debug\Library.Form1.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.FormUser.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+E:\图书管理系统\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\图书管理系统\Library\Library\bin\Debug\Library.exe.config
+E:\图书管理系统\Library\Library\bin\Debug\Library.exe
+E:\图书管理系统\Library\Library\bin\Debug\Library.pdb
+E:\图书管理系统\Library\Library\obj\Debug\Library.exe
+E:\图书管理系统\Library\Library\obj\Debug\Library.pdb
+E:\图书管理系统\Library\Library\obj\Debug\Library.FormAdmin.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.FormAddBook.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.FormManage.resources
+E:\图书管理系统\Library\Library\obj\Debug\Library.FormUpdateBook.resources

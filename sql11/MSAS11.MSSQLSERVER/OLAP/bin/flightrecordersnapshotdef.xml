@@ -1,0 +1,65 @@
+<FlightRecorderSnapshotDef>
+	<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+			<Body>
+					<Discover xmlns="urn:schemas-microsoft-com:xml-analysis">
+							<RequestType>DISCOVER_LOCKS</RequestType>
+							<Restrictions>
+									<RestrictionList>
+										<LOCK_MIN_TOTAL_MS>0</LOCK_MIN_TOTAL_MS>
+									</RestrictionList>
+							</Restrictions>
+							<Properties>
+									<PropertyList>
+									</PropertyList>
+							</Properties>
+					</Discover>
+			</Body>
+	</Envelope>
+	<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+			<Body>
+					<Discover xmlns="urn:schemas-microsoft-com:xml-analysis">
+							<RequestType>DISCOVER_JOBS</RequestType>
+							<Restrictions>
+									<RestrictionList>
+										<JOB_MIN_TOTAL_TIME_MS>0</JOB_MIN_TOTAL_TIME_MS>
+									</RestrictionList>
+							</Restrictions>
+							<Properties>
+									<PropertyList>
+									</PropertyList>
+							</Properties>
+					</Discover>
+			</Body>
+	</Envelope>
+	<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+			<Body>
+					<Discover xmlns="urn:schemas-microsoft-com:xml-analysis">
+							<RequestType>DISCOVER_SESSIONS</RequestType>
+							<Restrictions>
+									<RestrictionList>
+									</RestrictionList>
+							</Restrictions>
+							<Properties>
+									<PropertyList>
+									</PropertyList>
+							</Properties>
+					</Discover>
+			</Body>
+	</Envelope>
+	<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+			<Body>
+					<Discover xmlns="urn:schemas-microsoft-com:xml-analysis">
+							<RequestType>DISCOVER_CONNECTIONS</RequestType>
+							<Restrictions>
+									<RestrictionList>
+									</RestrictionList>
+							</Restrictions>
+							<Properties>
+									<PropertyList>
+									</PropertyList>
+							</Properties>
+					</Discover>
+			</Body>
+	</Envelope>
+</FlightRecorderSnapshotDef>
+	

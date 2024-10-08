@@ -1,0 +1,307 @@
+﻿BODY, FRAMESET, FORM
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.PageNumberText, INPUT, BUTTON, SELECT, TABLE, BODY, FRAMESET, TEXTAREA
+{
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+.ActiveLink:link
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: #3366CC;
+	text-decoration: none
+}
+
+.ActiveLink:hover
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: #FF3300;
+	text-decoration: underline
+}
+
+.ActiveLink:visited
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: #3366CC;
+	text-decoration: none
+}
+
+.ActiveLink:visited:hover
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: #FF3300;
+	text-decoration: underline
+}
+
+.WaitControlBackground
+{
+	cursor: wait;
+	padding: 15px;
+	background-color: #ebf3ff;
+	border: 1px solid #a4b7d8;
+}
+
+.WaitInfoCell
+{
+	vertical-align: middle;
+	text-align: center;
+}
+
+.WaitText
+{
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 14pt;
+}
+
+.CancelLinkDiv
+{
+	margin-top: 3px;
+}
+
+.CancelLinkText
+{
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 8pt;
+}
+
+.MenuBarBkGnd
+{
+	background-color: #D9EAFF;
+	border: 1px solid #a4b7d8;
+}
+
+
+.ParametersFrame
+{
+	border-bottom: 1px solid #a4b7d8;
+}
+
+.ParamLabelCell
+{
+	padding: 5px;
+	padding-right: 0px;
+}
+
+.ParamEntryCell
+{
+	padding: 5px;
+}
+
+.ParamsGrid
+{
+	margin: 0px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px
+}
+
+.InterParamPadding
+{
+	padding-left: 22px
+}
+
+.EmptyDropDown
+{
+	width: 15ex;
+}
+
+.SubmitButtonCell
+{
+	border-left: 1px solid #a4b7d8;
+	align:center;
+	text-align:center;
+	padding: 10px;
+	vertical-align: top
+}
+
+.ToolBarButtonsCell
+{
+	padding-left: 6px
+}
+
+.ToolBarBackground
+{
+	background-image: url(Reserved.ReportViewerWebControl.axd?OpType=StyleSheetImage&Name=toolbar_sp.jpg);
+	background-color:#ddeef7;
+	border-bottom: 1px solid #a4b7d8;
+	border-top:  1px solid #a4b7d8;
+	border-left: none;
+	border-right: none;
+}
+
+.ToolbarDocMapToggle
+{
+	display: inline;
+}
+
+.ToolbarPageNav
+{
+	display: inline;
+}
+
+.ToolbarZoom
+{
+	display: none;
+}
+
+.ToolbarFind
+{
+	display: none;
+}
+
+.ToolbarExport
+{
+	display: none;
+}
+
+.ToolbarRefresh
+{
+	display: none;
+}
+
+.ToolbarPrint
+{
+	display: none;
+}
+
+.ToolbarAtomDataFeed
+{
+	display: none;
+}
+
+.ToolbarToggleParams
+{
+}
+
+.ShowHideParametersGroup
+{
+	padding-right: 4px
+}
+
+.InterWidgetGroup
+{
+	padding-right: 4px
+}
+
+.DisabledLink
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: gray;
+	text-decoration: none;
+	cursor: default;
+}
+
+.DisabledLink:hover
+{
+	font-size: 8pt;
+	font-family: Verdana;
+	color: gray;
+	text-decoration: none;
+	cursor: default;
+}
+
+.ImageWidget
+{
+	height: 16px;
+	width: 16px;
+	margin: 0px;
+}
+
+.DisabledTextBox
+{
+	background-color: #ECE9D8;
+}
+
+.WidgetSet
+{
+	height: 30px;
+}
+
+.WidgetSetSpacer
+{
+	padding-right: 20px;
+}
+
+.WidgetShortSpacer
+{
+	padding-right: 6px;
+}
+
+.HoverButton
+{
+	cursor: hand;
+	background-color: #ddeef7;
+	border: 1px solid #a4b7d8;
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+.NormalButton
+{
+	cursor: hand;
+	padding: 1px;
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+.DisabledButton
+{
+	cursor: default;
+	padding: 1px;
+	font-size: 8pt;
+	font-family: Verdana
+}
+
+.SplitterNormal
+{
+	background-color: #a4b7d8;	
+}
+.SplitterHover
+{
+	background-color: #ddeef7;	
+}
+
+.DocMapAndReportFrame
+{
+	border-top: 1px solid black;
+}
+
+.DocMapContentCell
+{
+}
+
+.DocMapTitle
+{
+	background-color: #d9eaff;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 28px;
+	line-height: 28px;
+}
+
+.DocMapFrame
+{
+	border-right: 1px solid darkgray;
+}
+
+.DocMapBar
+{
+	background-color: #d9eaff;
+	padding-right: 10px;
+	padding-left: 10px;
+	height: 28px;
+	line-height: 28px;
+}

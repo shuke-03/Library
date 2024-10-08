@@ -1,0 +1,2 @@
+﻿<%@ Register TagPrefix="MSRS" Namespace="Microsoft.ReportingServices.UI" Assembly="ReportingServicesWebUserInterface" %>
+<%@ Page language="C#" Codebehind="ComponentItem.aspx.cs" AutoEventWireup="false" Inherits="Microsoft.ReportingServices.UI.ComponentItemPage" EnableEventValidation="false" %>
